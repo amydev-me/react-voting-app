@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Voting App
+# Voting App 
 
 A simple voing app with React 
 inspired by [Product Hunt](https://www.producthunt.com/)
